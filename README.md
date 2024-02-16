@@ -16,11 +16,11 @@ Atualmente, estou focado em:
 
 ## Projetos Destacados
 
-[![Pokedex](https://img.shields.io/badge/-Pokedex-336791?style=for-the-badge&logo=github)](link_para_o_repositório)
+[![Pokedex](https://img.shields.io/badge/-Pokedex-336791?style=for-the-badge&logo=github)](https://github.com/CacoCem/pokedex-js)
 
 ## Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link_para_seu_perfil)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](link_para_seu_perfil_no_github)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-cem/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CacoCem)
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato! Estou sempre aberto a novas oportunidades e colaborações.
